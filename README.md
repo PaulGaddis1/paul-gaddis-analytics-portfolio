@@ -1,2 +1,3 @@
-# paul-gaddis-analytics-portfolio
-`Portfolio of Excel and Python analytics projects by Paul Gaddis (UTSA Information Systems &amp; Technology)
+# Paul Gaddis — Analytics Portfolio
+UTSA Information Systems & Technology student (GPA 3.42).  
+Showcases Excel and Python projects demonstrating data analysis, visualization, and automation.
