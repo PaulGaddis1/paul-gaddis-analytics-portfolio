@@ -6,18 +6,18 @@ Showcasing Excel and Python projects demonstrating data analysis, visualization,
 🔹 Projects
 1️⃣ Business Analytics Dashboard (Excel)
 
-Purpose: Analyzed 12 months of fictional tech accessory sales to identify top products and regional revenue trends.
+Purpose: Analyzed 12 months of fictional tech-accessory sales to identify top products and regional revenue trends.
 Skills: PivotTables, charts, data cleaning, business insights.
 
 2️⃣ IT Support Ticket Dashboard (Excel)
 
-Purpose: Built a helpdesk performance dashboard summarizing ticket volume, SLA compliance, and average resolution time.
+Purpose: Built a help-desk performance dashboard summarizing ticket volume, SLA compliance, and average resolution time.
 Skills: Operational analytics, KPI visualization, reporting.
 
 3️⃣ BI Strategy Dashboard (Excel)
 
 Purpose: Created an executive-style dashboard integrating sales, marketing, and satisfaction data to show profitability and performance insights.
-Skills: Power Query, KPI design, business intelligence visualization.
+Skills: Power Query, KPI design, business-intelligence visualization.
 
 4️⃣ Gaming Engagement Analysis (Python)
 
