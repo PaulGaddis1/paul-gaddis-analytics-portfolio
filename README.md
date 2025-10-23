@@ -1,4 +1,4 @@
-# 📊 Paul Gaddis — Analytics Portfolio  
+#  Paul Gaddis — Analytics Portfolio  
 UTSA Information Systems & Technology (GPA 3.42)  
 Showcasing Excel and Python projects demonstrating data analysis, visualization, and automation.
 
@@ -30,14 +30,14 @@ Showcasing Excel and Python projects demonstrating data analysis, visualization,
 
 ---
 
-## 📬 Contact  
+##  Contact  
 **Email:** gaddisaaronpaul@gmail.com  
 **LinkedIn:** [linkedin.com/in/paul-gaddis-5a1165298](https://linkedin.com/in/paul-gaddis-5a1165298)  
 **GitHub:** [github.com/PaulGaddis1](https://github.com/PaulGaddis1)
 
 ---
 
-### 🧠 Summary
+###  Summary
 This portfolio demonstrates hands-on experience in:  
 - Business data analysis & visualization (Excel, Power Query)  
 - Operational metrics tracking (SLA/KPI dashboards)  
@@ -46,7 +46,7 @@ This portfolio demonstrates hands-on experience in:
 
 ---
 
-### ✅ How to Use
+###  How to Use
 Each linked repository contains:  
 - The original project files  
 - A short README with context  
@@ -57,4 +57,4 @@ All projects were completed independently for portfolio development as part of U
 ---
 
 ## 🔗 Shareable Portfolio Link  
-👉 **https://github.com/PaulGaddis1/paul-gaddis-analytics-portfolio**
+ **https://github.com/PaulGaddis1/paul-gaddis-analytics-portfolio**
