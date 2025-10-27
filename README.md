@@ -30,6 +30,12 @@ Showcasing Excel and Python projects demonstrating data analysis, visualization,
 
 ---
 
+5️⃣ [IT Help Desk Performance Dashboard (Power BI)](https://github.com/PaulGaddis1/Paul_Gaddis_IT_HelpDesk_SLA_Dashboard)  
+Purpose: Built a Power BI dashboard analyzing 1,000+ support tickets to track SLA %, resolution time, and agent performance.  
+Skills: Power BI · DAX · KPI design · data modeling · business analytics · visualization.
+
+---
+
 ##  Contact  
 **Email:** gaddisaaronpaul@gmail.com  
 **LinkedIn:** [linkedin.com/in/paul-gaddis-5a1165298](https://linkedin.com/in/paul-gaddis-5a1165298)  
