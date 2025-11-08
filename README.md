@@ -15,6 +15,7 @@ Showcasing Excel and Python projects demonstrating data analysis, visualization,
 
 ### 2️⃣ [IT Support Ticket Dashboard (Excel)](https://github.com/PaulGaddis1/it-support-ticket-dashboard)
 **Purpose:** Built a help-desk performance dashboard summarizing ticket volume, SLA compliance, and average resolution time.  
+
 **Skills:** Operational analytics, KPI visualization, reporting.
 
 ---
