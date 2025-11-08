@@ -7,7 +7,8 @@ Showcasing Excel and Python projects demonstrating data analysis, visualization,
 ## 🔹 Projects
 
 ### 1️⃣ [Business Analytics Dashboard (Excel)](https://github.com/PaulGaddis1/business-analytics-dashboard)
-**Purpose:** Analyzed 12 months of fictional tech-accessory sales to identify top products and regional revenue trends.  
+**Purpose:** Analyzed 12 months of fictional tech-accessory sales to identify top products and regional revenue trends. 
+
 **Skills:** PivotTables, charts, data cleaning, business insights.
 
 ---
@@ -20,18 +21,21 @@ Showcasing Excel and Python projects demonstrating data analysis, visualization,
 
 ### 3️⃣ [BI Strategy Dashboard (Excel)](https://github.com/PaulGaddis1/bi-strategy-dashboard)
 **Purpose:** Created an executive-style dashboard integrating sales, marketing, and satisfaction data to show profitability and performance insights.  
+
 **Skills:** Power Query, KPI design, business-intelligence visualization.
 
 ---
 
 ### 4️⃣ [Gaming Engagement Analysis (Python)](https://github.com/PaulGaddis1/gaming-engagement-analysis)
 **Purpose:** Python program that reads a synthetic 2024 gaming dataset, calculates engagement KPIs, and generates revenue and activity charts automatically.  
+
 **Skills:** Python, pandas, matplotlib, data automation, visualization.
 
 ---
 
 ### 5️⃣ [IT Help Desk Performance Dashboard (Power BI)](https://github.com/PaulGaddis1/Paul_Gaddis_IT_HelpDesk_SLA_Dashboard)  
 **Purpose:** Built a Power BI dashboard analyzing 1,000+ support tickets to track SLA %, resolution time, and agent performance.  
+
 **Skills:** Power BI · DAX · KPI design · data modeling · business analytics · visualization.
 
 ---
