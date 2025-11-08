@@ -36,6 +36,13 @@ Showcasing Excel and Python projects demonstrating data analysis, visualization,
 
 ---
 
+6️⃣ IT Threat Model — SaaS Login & Dashboard (Security Analysis)
+
+Purpose: Developed a professional threat model and remediation plan for a fictional SaaS login/dashboard (AcmeApp), identifying six security risks mapped to the OWASP Top 10 and recommending prioritized mitigations including MFA, access control hardening, and secure session handling.
+Skills: Threat modeling · OWASP Top 10 · risk prioritization · remediation planning · security documentation.
+
+---
+
 ##  Contact  
 **Email:** gaddisaaronpaul@gmail.com  
 **LinkedIn:** [linkedin.com/in/paul-gaddis-5a1165298](https://linkedin.com/in/paul-gaddis-5a1165298)  
