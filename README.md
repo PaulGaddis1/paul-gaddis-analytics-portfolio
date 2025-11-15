@@ -49,6 +49,13 @@ Showcasing Excel and Python projects demonstrating data analysis, visualization,
 
 ---
 
+### 7️⃣ [SQL Sales & Inventory Analysis (SQL)](https://github.com/PaulGaddis1/sql-sales-inventory-dashboard)  
+**Purpose:** SQL-based analysis evaluating sales performance, product profitability, and inventory health for a fictional tech accessories business.  
+
+**Skills:** SQL · joins · grouping · aggregate functions · window functions · data querying · business insights
+
+---
+
 ##  Contact  
 **Email:** gaddisaaronpaul@gmail.com  
 **LinkedIn:** [linkedin.com/in/paul-gaddis-5a1165298](https://linkedin.com/in/paul-gaddis-5a1165298)  
