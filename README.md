@@ -1,4 +1,4 @@
-#  Paul Gaddis — Analytics Portfolio  
+#  Paul Gaddis — Information Systems Portfolio  
 UTSA Information Systems & Technology (GPA 3.83)  
 Showcasing Excel and Python projects demonstrating data analysis, visualization, and automation.
 
